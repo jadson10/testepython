@@ -1,1 +1,1 @@
-Exemplo introdutórios de com python 
+Exemplos introdutórios com python 
